@@ -1,0 +1,5 @@
+{
+  "name": "AccountAPP",
+  "description": "An application for an accounting office that allows clients to view documents, receive tax notifications, and check fee status. The office side can manage clients and upload tax documents.",
+  "requestFramePermissions": []
+}
